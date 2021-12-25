@@ -12,7 +12,7 @@ import BaseInput from '@/components/ui/BaseInput';
 import PhotoList from '@/components/Result/PhotoList.vue';
 
 const unsplash = new createApi({
-  accessKey: 'your unsplash access token',
+  accessKey: 'your unsplash access key',
 });
 
 export default {
